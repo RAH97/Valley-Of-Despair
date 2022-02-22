@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ss3z7vzxt2cOhxAJ7Camlqghw8Aiq0UbWDq85MmdzALyfqLv/cBOh/4T62ZmKFl2l8LkJmmYpukzgZhhjkzOtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\git\\Valley-Of-Despair\\Valley_Of_Despair\\Valley_Of_Despair.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

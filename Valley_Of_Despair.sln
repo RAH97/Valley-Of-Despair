@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valley_Of_Despair", "Valley_Of_Despair\Valley_Of_Despair.csproj", "{54AB6BBE-05CA-466A-9C74-7796C16A31F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valley_Of_Despair", "Valley_Of_Despair\Valley_Of_Despair.csproj", "{562C98AF-D3AF-4054-9030-7306D46E5CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{54AB6BBE-05CA-466A-9C74-7796C16A31F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54AB6BBE-05CA-466A-9C74-7796C16A31F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54AB6BBE-05CA-466A-9C74-7796C16A31F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54AB6BBE-05CA-466A-9C74-7796C16A31F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562C98AF-D3AF-4054-9030-7306D46E5CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562C98AF-D3AF-4054-9030-7306D46E5CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562C98AF-D3AF-4054-9030-7306D46E5CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562C98AF-D3AF-4054-9030-7306D46E5CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
